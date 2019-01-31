@@ -65,7 +65,7 @@
                             <img src="{{ asset('img/viento/max-mensual-viento.jpg')}}" class="img-responsive">
                             <div class="thumb-name"></div>
                             <div class="thumb-icons">
-                                Máxima promedio mensual
+                                Promedio mensual de máximas
                             </div>
                             </a>
                         </div>
