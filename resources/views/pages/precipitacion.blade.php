@@ -64,7 +64,7 @@
                             <img src="{{ asset('img/precipitacion/max-mensual-precipitacion.jpg')}}" class="img-responsive">
                             <div class="thumb-name"></div>
                             <div class="thumb-icons">
-                                Máxima promedio mensual
+                                Promedio mensual de máximas
                             </div>
                          </a>
                         </div>
