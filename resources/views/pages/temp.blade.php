@@ -64,7 +64,7 @@
                             <img src="{{ asset('img/temperatura/max-mensual-temperatura.jpg')}}" class="img-responsive">
                             <div class="thumb-name"></div>
                             <div class="thumb-icons">
-                               Máxima promedio mensual
+                               Promedio mensual de máximas
                             </div>
                           </a>
                         </div>
@@ -97,7 +97,7 @@
                             <img src="{{ asset('img/temperatura/min-mensual-temperatura.jpg')}}" class="img-responsive">
                             <div class="thumb-name"></div>
                             <div class="thumb-icons">
-                                Mínima promedio mensual
+                                Promedio mensual de mínimas
                             </div>
                           </a>
                         </div>
