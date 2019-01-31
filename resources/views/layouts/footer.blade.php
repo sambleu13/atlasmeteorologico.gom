@@ -16,7 +16,7 @@
             <p>
                 <br>
                 <center>
-                    TODOS LOS DERECHOS RESERVADOS  &copy; <?php echo date("Y")."."; ?><br>
+                    TODOS LOS DERECHOS RESERVADOS  &copy; 2018<br>
                     Grupo Interacción Océano-Atmósfera.<br>
                     Centro de Ciencias de la Atmósfera<br>
                     Universidad Nacional Autónoma de México.
