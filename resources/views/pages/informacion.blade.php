@@ -53,14 +53,14 @@
                 </div>
                 <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 columnas">
                     <strong>
-                        <span style="font-size: 37px">465,792</span> <small>MAPAS</small>
+                        <span style="font-size: 37px">19,924</span> <small>MAPAS</small>
                     </strong>
                     <br>
                     <span style="font-size: 14px">GENERADOS EN TOTAL</span>
                 </div>
                 <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 columnas">
                     <strong>
-                        <span style="font-size: 37px">1998</span> <small> HORAS</small>
+                        <span style="font-size: 37px">465,792</span> <small> HORAS</small>
                     </strong>
                     <br>
                     <span style="font-size: 14px">DE TIEMPO DE CÓMPUTO</span>
