@@ -19,8 +19,8 @@
             <b class="caret"></b></a>
           <ul class="dropdown-menu">
             <li><a href="{{ asset('products#climatologia')}}"><strong>Climatologías</strong></a></li>
-            <li><a href="{{ asset('products#esc_derrames')}}"><strong>Escenarios de derrame de petróleo</strong></a></li>
-            <li><a href="{{ asset('products#owgis')}}"><strong>Visualizador OWGIS</strong></a></li>
+            <li><a href="derrames" target="_blank"><strong>Escenarios de derrames de petróleo</strong></a></li>
+            <li><a href="http://pronosticos.unam.mx:8080/atlasmeteorologico/mapviewer" target="_blank"><strong>Visualizador OWGIS</strong></a></li>
 
           </ul>
         </li>

@@ -235,11 +235,7 @@
                                 <center><h3>Agradecimientos</h3></center>
                                 <ul>
                                     <li> 
-                                        <p> 
-                                            Esta investigación ha sido financiada por el Fondo Sectorial CONACyT - SENER - Hidrocarburos, proyecto 201441. Esta es una contribución del Consorcio de Investigación del Golfo de México (CIGoM).
-                                            <br>
-                                            <i>Research funded by the National Council of Science and Technology of Mexico - Mexican Ministry of Energy - Hydrocarbon Trust, project 201441. This is a contribution of the Gulf of Mexico Research Consortium (CIGoM).</i>
-                                        </p>
+                                        Esta investigación ha sido financiada por el Fondo Sectorial CONACyT - SENER - Hidrocarburos, proyecto 201441. Esta es una contribución del Consorcio de Investigación del Golfo de México (CIGoM).
                                     </li> 
                                     <li>
                                         Agradecemos los recursos de supercómputo de la UNAM (supercomputadora Miztli) proporcionados a través del proyecto LANCAD-UNAM-DGTIC-110.

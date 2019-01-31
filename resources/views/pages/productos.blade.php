@@ -180,7 +180,7 @@
             <div class="container">
             <div class="col-md-12">
             <a href="derrames" target="_blank">
-              <img src="{{ asset('img/mosaicos-escenarios.gif')}}"  class="img-responsive">
+              <img src="{{ asset('img/mosaicos-escenarios.jpg')}}"  class="img-responsive">
                 </a>
             </div>
             </div>

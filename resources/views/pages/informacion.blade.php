@@ -53,7 +53,7 @@
                 </div>
                 <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 columnas">
                     <strong>
-                        <span style="font-size: 37px">19,924</span> <small>MAPAS</small>
+                        <span style="font-size: 37px">465,792</span> <small>MAPAS</small>
                     </strong>
                     <br>
                     <span style="font-size: 14px">GENERADOS EN TOTAL</span>
@@ -80,7 +80,7 @@
                         </h2>
 
                         <p>
-				Proporciona información sobre el estado medio y la variabilidad de las condiciones atmosféricas en distintas escalas de tiempo, desde las frecuencias horarias hasta las variaciones interanuales en el Golfo de México. También, presenta escenarios típicos de derrames atmosféricos de hidrocarburos en el Golfo de México.
+				Proporciona información sobre el estado medio y la variabilidad de las condiciones atmosféricas en distintas escalas de tiempo, desde las frecuencias horarias hasta las variaciones interanuales en el Golfo de México. También, presenta escenarios típicos de la dispersión de contaminantes atmosféricos asociados a derrames de hidrocarburos en el Golfo de México.
                         </p>
                     </div>
                 </div>
@@ -193,18 +193,8 @@
                             <td style="text-align: center">X</td>
                         </tr>
                         <tr style="background-color: #FFFFFF;">
-                            <td>Máxima promedio diario</td>
+                            <td>Máxima absoluta diaria</td>
                             <td style="text-align: center"></td>
-                            <td style="text-align: center">X</td>
-                        </tr>
-                        <tr>
-                            <td>Máxima promedio mensual</td>
-                            <td style="text-align: center">X</td>
-                            <td style="text-align: center">X</td>
-                        </tr>
-                        <tr style="background-color: #FFFFFF;">
-                            <td>Mínima promedio mensual</td>
-                            <td style="text-align: center">X</td>
                             <td style="text-align: center">X</td>
                         </tr>
                         <tr>
@@ -214,6 +204,16 @@
                         </tr>
                         <tr style="background-color: #FFFFFF;">
                             <td>Mínima absoluta mensual</td>
+                            <td style="text-align: center">X</td>
+                            <td style="text-align: center">X</td>
+                        </tr>
+                        <tr>
+                            <td>Promedio mensual de máximas</td>
+                            <td style="text-align: center">X</td>
+                            <td style="text-align: center">X</td>
+                        </tr>
+                        <tr style="background-color: #FFFFFF;">
+                            <td>Promedio mensual de mínimas</td>
                             <td style="text-align: center">X</td>
                             <td style="text-align: center">X</td>
                         </tr>
@@ -228,7 +228,7 @@
                             <td style="text-align: center">X</td>
                         </tr>
                         <tr>
-                            <td>Índices climatológicos</td>
+                            <td>Índices climáticos</td>
                             <td style="text-align: center"></td>
                             <td style="text-align: center">X</td>
                         </tr>
