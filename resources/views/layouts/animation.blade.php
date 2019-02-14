@@ -1,40 +1,49 @@
-<div id="boltslider-container1" style="padding: 0; margin: 0;">
-    <div class="bolt_images col-md-12">
-        <ul>
-            <li>
-                <img src="{{ asset('/img/carrusel/slider1-principal-inicio.jpg')}}" />
-           
-            </li>
-            <li>
-                <img src="{{ asset('img/carrusel/slider2-principal-inicio.jpg')}}"  />
-          
-            </li>
-            <li>
-                <img src="{{ asset('img/carrusel/slider3-principal-inicio.jpg')}}"/>
-              
-            </li>
-        </ul>
-    </div>
-    <div class="bolt_bullets">
+<div id="myCarousel" class="carousel slide" data-ride="carousel">
     
-   
-      <div class="slide-text slide_style_right">
-         <h2 class="Site_title" >
-          <strong><font color="#fff" text-shadow="2px 2px 10px #000" >
-          ATLAS METEOROLÓGICO <br> DEL GOLFO DE MÉXICO PARA <br> PLANTEAR ESCENARIOS DE DERRAMES
-            </font>
-          </strong>
-          </h2>
-          <br>
-          
-       </div>
-       <br>
-       <div>
-       <a href="#" title=""><span></span></a>
-    <a href="#" title=""><span></span></a>
-    <a href="#" title=""><span></span></a>
-    </div>
-    </div>
+    <!-- Indicadores -->
+    <ol class="carousel-indicators">
+      <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+      <li data-target="#myCarousel" data-slide-to="1"></li>
+      <li data-target="#myCarousel" data-slide-to="2"></li>
+    </ol>
+
+    <!-- Wrapper para slides -->
+    <div class="carousel-inner">
+      <div class="item active">
+        <img src="{{ asset('/img/carrusel/slider1-principal-inicio.jpg')}}" alt="slider1-principal-inicio" style="width:100%;">
+        <div class="carousel-caption">
+                <h1><strong>ATLAS METEOROLÓGICO DEL GOLFO DE MÉXICO PARA PLANTEAR ESCENARIOS DE DERRAMES</strong></h1>
+                
+        </div>
+      </div>
+
+      <div class="item">
+        <img src="{{ asset('img/carrusel/slider2-principal-inicio.jpg')}}" alt="slider2-principal-inicio" style="width:100%;">
+        <div class="carousel-caption">
+                <h1><strong>ATLAS METEOROLÓGICO DEL GOLFO DE MÉXICO PARA PLANTEAR ESCENARIOS DE DERRAMES</strong></h2>
+       
+        </div>
+      </div>
     
-   
+      <div class="item">
+        <img src="{{ asset('img/carrusel/slider3-principal-inicio.jpg')}}" alt="slider3-principal-inicio" style="width:100%;">
+        <div class="carousel-caption">
+                <h1><strong>ATLAS METEOROLÓGICO DEL GOLFO DE MÉXICO PARA PLANTEAR ESCENARIOS DE DERRAMES</strong></h1>
+                
+        </div>
+      </div>
+    </div>
+
+    <!-- Controles -->
+    <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+      <!--<span class="glyphicon glyphicon-chevron-left" position: absolute;></span> -->
+      <span class="sr-only">Anterior</span>
+    </a>
+
+    <a class="right carousel-control" href="#myCarousel" data-slide="next">
+      <!-- <span class="glyphicon glyphicon-chevron-right"></span> -->
+      <span class="sr-only">Siguiente</span>
+    </a>
+    </div>
+
 </div>
