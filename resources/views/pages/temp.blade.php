@@ -78,7 +78,7 @@
                             <img src="{{ asset('img/temperatura/max-absoluta-mensual-temperatura.jpg')}}" class="img-responsive">
                             <div class="thumb-name"></div>
                             <div class="thumb-icons">
-                                Máxima absoluta mensual
+                                Máxima absoluta por mes
                             </div>
                          </a>
                         </div>
@@ -111,7 +111,7 @@
                             <img src="{{ asset('img/temperatura/min-absoluta-mensual-temperatura.jpg')}}" class="img-responsive">
                             <div class="thumb-name"></div>
                             <div class="thumb-icons">
-                                Mínima absoluta mensual
+                                Mínima absoluta por mes
                             </div>
                          </a>   
                         </div>
