@@ -78,7 +78,7 @@
                             <img src="{{ asset('img/precipitacion/max-absoluta-mensual-precipitacion.jpg') }}" class="img-responsive">
                             <div class="thumb-name"></div>
                             <div class="thumb-icons">
-                                Máxima absoluta mensual
+                                Máxima absoluta por mes
                             </div>
                           </a>
                         </div>
