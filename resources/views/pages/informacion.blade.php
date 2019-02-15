@@ -53,7 +53,7 @@
                 </div>
                 <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 columnas">
                     <strong>
-                        <span style="font-size: 37px">19,924</span> <small>MAPAS</small>
+                        <span style="font-size: 37px">20,730</span> <small>MAPAS</small>
                     </strong>
                     <br>
                     <span style="font-size: 14px">GENERADOS EN TOTAL</span>
@@ -198,12 +198,12 @@
                             <td style="text-align: center">X</td>
                         </tr>
                         <tr>
-                            <td>Máxima absoluta mensual</td>
+                            <td>Máxima absoluta por mes</td>
                             <td style="text-align: center">X</td>
                             <td style="text-align: center">X</td>
                         </tr>
                         <tr style="background-color: #FFFFFF;">
-                            <td>Mínima absoluta mensual</td>
+                            <td>Mínima absoluta por mes</td>
                             <td style="text-align: center">X</td>
                             <td style="text-align: center">X</td>
                         </tr>

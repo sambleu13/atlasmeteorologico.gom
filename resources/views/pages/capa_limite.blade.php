@@ -66,7 +66,7 @@
                             <img src="{{ asset('img/capa_limite/max-absoluta-mensual-altura-capa-limite.jpg')}}" class="img-responsive">
                             <div class="thumb-name"></div>
                             <div class="thumb-icons">
-                                Máxima absoluta mensual
+                                Máxima absoluta por mes
                             </div>
                          </a>
                         </div>
