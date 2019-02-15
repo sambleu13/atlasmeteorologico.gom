@@ -7,14 +7,12 @@
 @section('content')
 
   <!--main container -->
-  <div class="row">
+  
+  <div class="wrapper"> <!--cuau -->
+   <div class="row">
       <div class="col-md-12">
         @include('layouts.animation')
       </div>
-  </div>
-
-  <div class="wrapper">
-      <div class="row">
           <div class="container">
               <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 visible-xs visible-sm visible-md visible-lg">
                   <!-- Columna izquierda -->
@@ -61,14 +59,13 @@
               </div><!-- fin columna derecha -->
           </div>
       </div>
-  </div><!-- end wrapper -->
-
-  <div class="row">
-      <div class="container-fluid">
+      <div class="container-fluid"> <!--cuau -->
+        <div class="row">
           <div class="col-md-12">
               @include('layouts.footer_slider')
           </div>
+        </div>
       </div>
-  </div>
+  </div><!-- end wrapper -->
 
 @endsection

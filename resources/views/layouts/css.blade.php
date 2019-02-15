@@ -1,9 +1,10 @@
 <!-- Styles -->
 <link href="{{ asset('css/app.css')}}" rel="stylesheet">
-<!-- boltslider -->
-<link rel="stylesheet" type="text/css" href="{{ asset('css/boltslider.css')}}">
 <!-- thumbs -->
 <link rel="stylesheet" type="text/css" href="{{ asset('css/thumbs.css')}}">
+<!-- para usar los iconos de material design -->
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
 <style>
     body{
         background-color: #DEF2F1;
