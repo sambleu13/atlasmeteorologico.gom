@@ -9,7 +9,6 @@
 
     <!--main container -->
      <div class="wrapper">
-     {!! Breadcrumbs::render('humedad') !!}
         <div class="row">
             <div class="container-fluid">
                 <div class="col-lg-12">
