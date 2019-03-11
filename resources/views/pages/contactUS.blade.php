@@ -8,6 +8,7 @@
 
     <!--main container -->
     <div class="wrapper">
+    {!! Breadcrumbs::render('contact-us') !!}
         <div class="row">
             <div class="container-fluid">
             <div class="col-lg-12">
