@@ -51,7 +51,7 @@ Breadcrumbs::register('products', function($breadcrumbs)
 Breadcrumbs::register('temp', function($breadcrumbs)
 {
     $breadcrumbs->parent('products');
-    $breadcrumbs->push('temperatura', url('temp'));
+    $breadcrumbs->push('Temperatura', url('products/temp'));
 });
 
 // Home > productos > viento 
