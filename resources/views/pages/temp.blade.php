@@ -8,7 +8,6 @@
 
     <!--main container -->
      <div class="wrapper">
-     {!! Breadcrumbs::render('temp') !!}
         <div class="row">
             <div class="container-fluid">
                 <div class="col-lg-12">
