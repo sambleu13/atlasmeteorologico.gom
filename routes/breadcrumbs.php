@@ -22,6 +22,14 @@ Breadcrumbs::register('acerca-de', function($breadcrumbs)
     $breadcrumbs->push('Acerca', url('acerca-de'));
 });
 
+// Home -> manual de usuario
+
+Breadcrumbs::register('manual', function($breadcrumbs)
+{
+    $breadcrumbs->parent('home');
+    $breadcrumbs->push('Manual de usuario', url('manual'));
+});
+
 // Home > contacto
 
 Breadcrumbs::register('contact-us', function($breadcrumbs)
