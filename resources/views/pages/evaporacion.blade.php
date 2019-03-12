@@ -9,7 +9,7 @@
 
     <!--main container -->
      <div class="wrapper">
-      {!! Breadcrumbs::render('evaporacion') !!}
+     {!! Breadcrumbs::render('evaporacion') !!}
              <div class="row">
             <div class="container-fluid">
                 <div class="col-lg-12">
