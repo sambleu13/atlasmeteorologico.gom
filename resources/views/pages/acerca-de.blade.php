@@ -7,6 +7,7 @@
     @section('content')
 
         <div class="wrapper">
+	{!! Breadcrumbs::render('acerca-de') !!}
             <div class="row">
                 <div class="container-fluid">
                     <div class="col-md-12 col-lg-12">

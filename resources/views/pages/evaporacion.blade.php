@@ -9,7 +9,8 @@
 
     <!--main container -->
      <div class="wrapper">
-             <div class="row">
+     {!! Breadcrumbs::render('evaporacion') !!}
+        <div class="row">
             <div class="container-fluid">
                 <div class="col-lg-12">
                     <div class="f_sld_prod">
