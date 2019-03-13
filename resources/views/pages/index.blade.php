@@ -9,7 +9,6 @@
   <!--main container -->
   
   <div class="wrapper"> <!--cuau -->
-   {!! Breadcrumbs::render('home') !!}
    <div class="row">
       <div class="col-md-12">
         @include('layouts.animation')
