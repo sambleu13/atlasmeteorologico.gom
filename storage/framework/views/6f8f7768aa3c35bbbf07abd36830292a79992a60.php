@@ -615,7 +615,7 @@ Dulce, [27.09.18 12:10]
         width: 263px
     }
     .embed-container{
-        min-height: 750px;
+        min-height: 800px;
     }
 }
 

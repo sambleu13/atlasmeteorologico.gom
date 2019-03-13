@@ -6,6 +6,7 @@
 
     <!--main container -->
     <div class="wrapper">
+    <?= Breadcrumbs::render('products') ?>
         <div class="row">
             <div class="container-fluid">
                 <div class="col-lg-12">
