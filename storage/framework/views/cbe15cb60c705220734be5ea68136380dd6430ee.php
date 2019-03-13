@@ -7,6 +7,8 @@
   <!--main container -->
   
   <div class="wrapper"> <!--cuau -->
+   <?php echo Breadcrumbs::render('home'); ?>
+
    <div class="row">
       <div class="col-md-12">
         <?php echo $__env->make('layouts.animation', array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>

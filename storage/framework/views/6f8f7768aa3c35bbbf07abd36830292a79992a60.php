@@ -484,10 +484,7 @@ Dulce, [27.09.18 12:10]
     color:#FFFFFF;
 }
 
-.embed-container{
-	/*min-height: 75vh;*/
-	min-height: 1200px;
-}
+
 /*se agregaron los siguientes estilos*/
 
     .atlasNumRow{
@@ -617,6 +614,9 @@ Dulce, [27.09.18 12:10]
     .affix-bottom {
         width: 263px
     }
+    .embed-container{
+        min-height: 750px;
+    }
 }
 
 /* SIDEBAR */
@@ -625,6 +625,15 @@ Dulce, [27.09.18 12:10]
     .docs-sidebar {
         padding-top: 20px;
         padding-left: 20px
+    }
+    .embed-container{
+        min-height: 980px;
+    }
+}
+
+@media (max-width: 767px) {
+  .embed-container{
+        min-height: 960px;
     }
 }
 
