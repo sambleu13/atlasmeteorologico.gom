@@ -84,7 +84,7 @@
                     <i class="material-icons"  >skip_next</i>
                 </button>
                 <label for="frame_nr" class="small">&nbsp;Imagen&nbsp;</label>  
-                <INPUT TYPE="text" NAME="frame_nr" VALUE="0" style="width: 50px;" class="form-control form-control-sm" onChange="go2image(parseInt(this.value))">
+                <INPUT TYPE="text" NAME="frame_nr" VALUE="0" style="width: 40px;" onChange="go2image(parseInt(this.value))">
                 <span class="small"> &nbsp;/<span id="lastimage"></span>&nbsp;&nbsp;&nbsp; </span>
                
                
